@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 class DiscntOff {
    DiscntOff() {
@@ -21,6 +21,5 @@ class DiscntOff {
          System.out.println("You Got NO DISCOUNT");
       }
 
-      sc.close();
    }
 }
